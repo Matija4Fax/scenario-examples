@@ -10,7 +10,7 @@ First we make sure we're in our home directory using
 cd ~
 ```{{exec}}
 
-We can list the current directory using
+ovo pokazuje sto sve ima u direktoriju
 
 ```plain
 pwd
